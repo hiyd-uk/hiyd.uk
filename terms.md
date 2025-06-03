@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: June 3, 2025**
+**Last updated:** _June 3, 2025_
 
 ## Agreement to Terms
 

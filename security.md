@@ -1,6 +1,6 @@
 # Security Policy
 
-**Last updated: June 3, 2025**
+**Last updated:** _June 3, 2025_
 
 ## Our Security Commitment
 
