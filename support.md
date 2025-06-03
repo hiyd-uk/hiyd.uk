@@ -60,32 +60,32 @@ A: Yes, once installed, the extension works completely offline.
 
 ### iOS App Issues
 
-**App won't open or crashes**
+- App won't open or crashes
 
-1. Restart your device
-2. Update to the latest iOS version
-3. Reinstall the app from the App Store
-4. Contact support if the issue persists
+    1. Restart your device
+    2. Update to the latest iOS version
+    3. Reinstall the app from the App Store
+    4. Contact support if the issue persists
 
-**Content not saving**
+- Content not saving
 
-1. Check available device storage
-2. Ensure the app has necessary permissions
-3. Try restarting the app
+    1. Check available device storage
+    2. Ensure the app has necessary permissions
+    3. Try restarting the app
 
 ### Chrome Extension Issues
 
-**Extension not appearing**
+- Extension not appearing
 
-1. Check that the extension is enabled in Chrome settings
-2. Try pinning the extension to the toolbar
-3. Restart Chrome browser
+    1. Check that the extension is enabled in Chrome settings
+    2. Try pinning the extension to the toolbar
+    3. Restart Chrome browser
 
-**Content not working properly**
+- Content not working properly
 
-1. Update Chrome to the latest version
-2. Disable other markdown extensions temporarily
-3. Clear browser cache and restart
+    1. Update Chrome to the latest version
+    2. Disable other markdown extensions temporarily
+    3. Clear browser cache and restart
 
 ## 🐛 Bug Reports
 
