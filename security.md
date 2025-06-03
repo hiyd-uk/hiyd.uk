@@ -4,13 +4,13 @@
 
 ## Our Security Commitment
 
-Hyd is designed with security and privacy as core principles. This document outlines our security practices and how to report security concerns.
+Hiyd is designed with security and privacy as core principles. This document outlines our security practices and how to report security concerns.
 
 ## Security Architecture
 
 ### Local-First Design
 
-- **No Server Communication**: Hyd operates entirely on your device
+- **No Server Communication**: Hiyd operates entirely on your device
 - **No Data Transmission**: Your content never leaves your device
 - **Offline Operation**: Full functionality without internet connection
 - **No User Accounts**: No authentication or account management required
@@ -54,7 +54,7 @@ We take security seriously. If you discover a security vulnerability, please:
 
 ### How to Report
 
-1. **Email**: Send details to <security@hyd.app>
+1. **Email**: Send details to <security@hiyd.uk>
 2. **Subject Line**: Include "SECURITY" in the subject
 3. **Information**: Provide detailed reproduction steps
 4. **Responsible Disclosure**: Allow us time to address before public disclosure
@@ -116,7 +116,7 @@ We regularly:
 
 ## Third-Party Security
 
-Since Hyd operates locally:
+Since Hiyd operates locally:
 
 - No third-party data processors
 - No external API dependencies
@@ -141,12 +141,12 @@ Since Hyd operates locally:
 
 For security concerns or questions:
 
-- **Security Email**: <security@hyd.app>
-- **General Support**: <support@hyd.app>
-- **Website**: hyd.thechels.uk
+- **Security Email**: <security@hiyd.uk>
+- **General Support**: <support@hiyd.uk>
+- **Website**: hiyd.uk
 
 ## Security Philosophy
 
-Hyd's security model is built on the principle that the most secure data is data that never leaves your device. By operating entirely locally, we eliminate entire classes of security vulnerabilities associated with data transmission, cloud storage, and remote processing.
+Hiyd's security model is built on the principle that the most secure data is data that never leaves your device. By operating entirely locally, we eliminate entire classes of security vulnerabilities associated with data transmission, cloud storage, and remote processing.
 
 Your content remains under your complete control, protected by your device's security measures and your own security practices.

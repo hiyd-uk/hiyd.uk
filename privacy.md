@@ -4,7 +4,7 @@
 
 ## Overview
 
-Hyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our Jekyll companion app and Chrome extension.
+Hiyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our Jekyll companion app and Chrome extension.
 
 ## Information We Collect
 
@@ -52,8 +52,8 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have questions about this Privacy Policy, please contact us at:
 
-- Email: <privacy@hyd.app>
-- Website: hyd.thechels.uk
+- Email: <privacy@hiyd.uk>
+- Website: hiyd.uk
 
 ## Your Rights
 

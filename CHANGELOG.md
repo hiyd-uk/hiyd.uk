@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to Hyd will be documented in this file.
+All notable changes to Hiyd will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
@@ -16,8 +16,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
-- Initial release of Hyd iOS app
-- Initial release of Hyd Chrome extension
+- Initial release of Hiyd iOS app
+- Initial release of Hiyd Chrome extension
 - Core markdown generation functionality
 - Jekyll front matter support
 - Local storage for privacy
@@ -64,4 +64,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ---
 
-For support or questions about any version, contact [support@hyd.app](mailto:support@hyd.app).
+For support or questions about any version, contact [support@hiyd.uk](mailto:support@hiyd.uk).

@@ -1,20 +1,20 @@
 # Support
 
-Need help with Hyd? We're here to assist you!
+Need help with Hiyd? We're here to assist you!
 
 ## 🚀 Quick Start Guides
 
 ### iOS App
 
-1. **Download**: Get Hyd from the [App Store](https://apps.apple.com/app/hyd/idXXXXXXXXX)
+1. **Download**: Get Hiyd from the [App Store](https://apps.apple.com/app/hiyd/idXXXXXXXXX)
 2. **Open**: Launch the app on your iOS device
 3. **Create**: Start making Jekyll content with front matter
 4. **Export**: Copy your generated markdown to your Jekyll site
 
 ### Chrome Extension
 
-1. **Install**: Add Hyd from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hyd/XXXXXXXXXXXXXXXXXXXXX)
-2. **Access**: Click the Hyd icon in your browser toolbar
+1. **Install**: Add Hiyd from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hiyd/XXXXXXXXXXXXXXXXXXXXX)
+2. **Access**: Click the Hiyd icon in your browser toolbar
 3. **Generate**: Create markdown content directly in your browser
 4. **Save**: Copy the output to your Jekyll project files
 
@@ -22,25 +22,25 @@ Need help with Hyd? We're here to assist you!
 
 ### General Questions
 
-**Q: Is Hyd free to use?**
-A: Yes, Hyd is free to download and use on both iOS and Chrome.
+**Q: Is Hiyd free to use?**
+A: Yes, Hiyd is free to download and use on both iOS and Chrome.
 
 **Q: Do I need an internet connection?**
-A: No, Hyd works completely offline once installed. Your content never leaves your device.
+A: No, Hiyd works completely offline once installed. Your content never leaves your device.
 
 **Q: Do you collect my data?**
 A: No, we don't collect any personal data. Everything is stored locally on your device. See our [Privacy Policy](privacy.md).
 
 **Q: Which Jekyll versions are supported?**
-A: Hyd generates standard Jekyll markdown format that works with all Jekyll versions.
+A: Hiyd generates standard Jekyll markdown format that works with all Jekyll versions.
 
 ### iOS App Questions
 
 **Q: What iOS version do I need?**
-A: Hyd requires iOS 14.0 or later.
+A: Hiyd requires iOS 14.0 or later.
 
 **Q: Can I sync between devices?**
-A: Currently, Hyd stores everything locally for privacy. Cross-device sync is not available.
+A: Currently, Hiyd stores everything locally for privacy. Cross-device sync is not available.
 
 **Q: Where is my content saved?**
 A: Content is saved in the app's secure local storage on your device.
@@ -48,7 +48,7 @@ A: Content is saved in the app's secure local storage on your device.
 ### Chrome Extension Questions
 
 **Q: Which browsers are supported?**
-A: Currently, Hyd is available for Chrome and Chromium-based browsers.
+A: Currently, Hiyd is available for Chrome and Chromium-based browsers.
 
 **Q: Does it work in incognito mode?**
 A: Yes, but your content won't persist after closing incognito tabs.
@@ -89,27 +89,27 @@ A: Yes, once installed, the extension works completely offline.
 
 ## 🐛 Bug Reports
 
-Found a bug? Help us improve Hyd:
+Found a bug? Help us improve Hiyd:
 
 ### How to Report
 
-1. **Email**: Send details to [support@hyd.app](mailto:support@hyd.app)
+1. **Email**: Send details to [support@hiyd.uk](mailto:support@hiyd.uk)
 2. **Subject**: Include "BUG REPORT" in the subject line
 3. **Details**: Provide steps to reproduce the issue
 
 ### What to Include
 
 - Device/browser and version
-- Hyd version (check in app/extension settings)
+- Hiyd version (check in app/extension settings)
 - Steps to reproduce the bug
 - Expected vs actual behavior
 - Screenshots if applicable
 
 ## 💡 Feature Requests
 
-Have an idea for Hyd? We'd love to hear it!
+Have an idea for Hiyd? We'd love to hear it!
 
-Send your suggestions to [support@hyd.app](mailto:support@hyd.app) with:
+Send your suggestions to [support@hiyd.uk](mailto:support@hiyd.uk) with:
 
 - Clear description of the feature
 - How it would help your Jekyll workflow
@@ -129,13 +129,13 @@ New to Jekyll? Here are some helpful resources:
 - [Privacy Policy](privacy.md)
 - [Terms of Service](terms.md)
 - [Security Policy](security.md)
-- [Website](https://hyd.thechels.uk)
+- [Website](https://hiyd.uk)
 
 ## 📞 Contact Options
 
-- **General Support**: [support@hyd.app](mailto:support@hyd.app)
-- **Security Issues**: [security@hyd.app](mailto:security@hyd.app)
-- **Business Inquiries**: [hello@hyd.app](mailto:hello@hyd.app)
+- **General Support**: [support@hiyd.uk](mailto:support@hiyd.uk)
+- **Security Issues**: [security@hiyd.uk](mailto:security@hiyd.uk)
+- **Business Inquiries**: [hello@hiyd.uk](mailto:hello@hiyd.uk)
 
 ## ⏰ Response Times
 
@@ -147,4 +147,4 @@ We typically respond to support requests within:
 
 ---
 
-Still need help? Don't hesitate to reach out at [support@hyd.app](mailto:support@hyd.app) - we're here to help!
+Still need help? Don't hesitate to reach out at [support@hiyd.uk](mailto:support@hiyd.uk) - we're here to help!

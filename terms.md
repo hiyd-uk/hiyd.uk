@@ -4,11 +4,11 @@
 
 ## Agreement to Terms
 
-By downloading, installing, or using the Hyd app (iOS) or Chrome extension, you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these terms, you may not use our service.
+By downloading, installing, or using the Hiyd app (iOS) or Chrome extension, you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these terms, you may not use our service.
 
 ## Description of Service
 
-Hyd is a Jekyll companion app that helps you:
+Hiyd is a Jekyll companion app that helps you:
 
 - Generate markdown content for Jekyll sites
 - Create posts with proper front matter formatting
@@ -26,7 +26,7 @@ You may use Hyd for:
 - ✅ Educational and learning purposes
 - ✅ Open source and commercial projects
 
-You may not use Hyd for:
+You may not use Hiyd for:
 
 - ❌ Any illegal or unauthorized purpose
 - ❌ Creating harmful, abusive, or inappropriate content
@@ -35,13 +35,13 @@ You may not use Hyd for:
 
 ## Intellectual Property
 
-- **Your Content**: You retain all rights to content you create using Hyd
-- **App Software**: Hyd and its original content, features, and functionality are owned by us and protected by copyright and other intellectual property laws
-- **Jekyll**: Jekyll is an open-source project. Hyd is not affiliated with or endorsed by Jekyll's creators
+- **Your Content**: You retain all rights to content you create using Hiyd
+- **App Software**: Hiyd and its original content, features, and functionality are owned by us and protected by copyright and other intellectual property laws
+- **Jekyll**: Jekyll is an open-source project. Hiyd is not affiliated with or endorsed by Jekyll's creators
 
 ## Disclaimers
 
-- **No Warranty**: Hyd is provided "as is" without warranty of any kind
+- **No Warranty**: Hiyd is provided "as is" without warranty of any kind
 - **Local Processing**: Since all processing happens locally, we cannot guarantee data persistence if your device fails
 - **Compatibility**: We strive for Jekyll compatibility but cannot guarantee compatibility with all Jekyll configurations
 - **Availability**: As a local app, availability depends on your device functionality
@@ -66,16 +66,16 @@ Your privacy is important to us. Please review our Privacy Policy, which explain
 
 ## Termination
 
-- **By You**: You may stop using Hyd at any time by uninstalling the app
+- **By You**: You may stop using Hiyd at any time by uninstalling the app
 - **By Us**: We may terminate access if you violate these terms
-- **Effect**: Upon termination, your right to use Hyd ends, but your locally stored content remains yours
+- **Effect**: Upon termination, your right to use Hiyd ends, but your locally stored content remains yours
 
 ## Support
 
 For support or questions:
 
-- Email: <support@hyd.app>
-- Website: hyd.thechels.uk
+- Email: <support@hiyd.uk>
+- Website: hiyd.uk
 
 ## Governing Law
 
@@ -89,7 +89,7 @@ If any provision of these Terms is held to be unenforceable, the remaining provi
 
 For questions about these Terms, contact us at:
 
-- Email: <legal@hyd.app>
-- Website: hyd.thechels.uk
+- Email: <legal@hiyd.uk>
+- Website: hiyd.uk
 
-By using Hyd, you acknowledge that you have read and understand these Terms of Service.
+By using Hiyd, you acknowledge that you have read and understand these Terms of Service.
