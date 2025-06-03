@@ -11,7 +11,7 @@ Hyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy
 ### Information We Don't Collect
 
 - **Personal Data**: We do not collect, store, or transmit any personal information
-- **Usage Analytics**: We do not track your usage patterns or behavior
+- **Usage Analytics**: We do not track your usage patterns or behaviour
 - **Account Information**: No account creation or login is required
 - **Content Data**: Your markdown content and Jekyll posts remain entirely on your device
 
