@@ -1,7 +1,7 @@
 # Hiyd - Jekyll Companion App
 
 [![Available on iOS App Store](https://img.shields.io/badge/iOS-App%20Store-blue)](https://apps.apple.com/app/hiyd/idXXXXXXXXX)
-[![Available on Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-green)](https://chrome.google.com/webstore/detail/hiyd/XXXXXXXXXXXXXXXXXXXXX)
+[![Available on Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-green)](https://chrome.google.com/webstore/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce)
 
 Generate markdown content for your Jekyll sites with ease. Create posts with front matter quickly on iOS and Chrome.
 
