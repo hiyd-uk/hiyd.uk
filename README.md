@@ -26,7 +26,7 @@ Generate markdown content for your Jekyll sites with ease. Create posts with fro
 
 ### Chrome Extension
 
-1. Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hiyd/XXXXXXXXXXXXXXXXXXXXX)
+1. Install from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce)
 2. Click the Hiyd icon in your browser toolbar
 3. Create markdown content directly in your browser
 4. Save or copy to your Jekyll project
