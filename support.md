@@ -29,7 +29,7 @@ A: Yes, Hiyd is free to download and use on both iOS and Chrome.
 A: No, Hiyd works completely offline once installed. Your content never leaves your device.
 
 **Q: Do you collect my data?**
-A: No, we don't collect any personal data. Everything is stored locally on your device. See our [Privacy Policy](/privacy).
+A: No, we don't collect any personal data. Everything is stored locally on your device. See our [Privacy Policy](https://hiyd.uk/privacy).
 
 **Q: Which Jekyll versions are supported?**
 A: Hiyd generates standard Jekyll markdown format that works with all Jekyll versions.
