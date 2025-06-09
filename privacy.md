@@ -1,10 +1,10 @@
 # Privacy Policy
 
-**Last updated:** _June 3, 2025_
+**Last updated:** _June 9, 2025_
 
 ## Overview
 
-Hiyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our Jekyll companion app and Chrome extension.
+Hiyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our websaite, apps and extensions.
 
 ## Information We Collect
 
@@ -13,12 +13,12 @@ Hiyd ("we," "our," or "us") is committed to protecting your privacy. This Privac
 - **Personal Data**: We do not collect, store, or transmit any personal information
 - **Usage Analytics**: We do not track your usage patterns or behaviour
 - **Account Information**: No account creation or login is required
-- **Content Data**: Your markdown content and Jekyll posts remain entirely on your device
+- **Content Data**: Your markdown content and Jekyll posts remain entirely in your iCloud drive or local device.
 
 ### Local Storage Only
 
 - All your data is stored locally on your device
-- Settings and preferences are saved in your browser's local storage (Chrome extension) or device storage (iOS app)
+- Settings and preferences are saved in your browser's local storage (Chrome extension) or iCloud (iOS app)
 - No data is transmitted to our servers or any third-party services
 
 ## How We Use Information
@@ -33,7 +33,7 @@ Since we don't collect personal information, we cannot use it. All processing ha
 
 - **Local Processing**: All operations are performed locally on your device
 - **No Server Communication**: The app does not communicate with external servers
-- **No Data Transmission**: Your content never leaves your device
+- **No Data Transmission**: Your content never leaves your device or iCloud drive
 - **Device Security**: Your data security depends on your device's security measures
 
 ## Third-Party Services
@@ -53,7 +53,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have questions about this Privacy Policy, please contact us at:
 
 - Email: <privacy@hiyd.uk>
-- Website: hiyd.uk
 
 ## Your Rights
 
@@ -63,4 +62,4 @@ Since we don't collect personal data:
 - No data portability is needed as everything stays on your device
 - You maintain complete control over your information
 
-This privacy-first approach ensures your Jekyll content and usage patterns remain completely private and under your control.
+This privacy-first approach ensures your content and usage patterns remain completely private and under your control.
