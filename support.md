@@ -13,7 +13,7 @@ Need help with Hiyd? We're here to assist you!
 
 ### Chrome Extension
 
-1. **Install**: Add Hiyd from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hiyd/XXXXXXXXXXXXXXXXXXXXX)
+1. **Install**: Add Hiyd from the [Chrome Web Store](https://chrome.google.com/webstore/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce)
 2. **Access**: Click the Hiyd icon in your browser toolbar
 3. **Generate**: Create markdown content directly in your browser
 4. **Save**: Copy the output to your Jekyll project files
@@ -29,7 +29,7 @@ A: Yes, Hiyd is free to download and use on both iOS and Chrome.
 A: No, Hiyd works completely offline once installed. Your content never leaves your device.
 
 **Q: Do you collect my data?**
-A: No, we don't collect any personal data. Everything is stored locally on your device. See our [Privacy Policy](privacy.md).
+A: No, we don't collect any personal data. Everything is stored locally on your device. See our [Privacy Policy](/privacy).
 
 **Q: Which Jekyll versions are supported?**
 A: Hiyd generates standard Jekyll markdown format that works with all Jekyll versions.
