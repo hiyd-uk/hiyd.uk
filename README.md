@@ -1,6 +1,6 @@
 # Hiyd - Jekyll Companion App
 
-[![Available on iOS App Store](https://img.shields.io/badge/iOS-App%20Store-blue)](https://apps.apple.com/app/hiyd/idXXXXXXXXX)
+[![Available on iOS App Store](https://img.shields.io/badge/iOS-App%20Store-blue)]([https://apps.apple.com/app/hiyd/idXXXXXXXXX](https://apps.apple.com/us/app/hiyd/id6746853559))
 [![Available on Chrome Web Store](https://img.shields.io/badge/Chrome-Web%20Store-green)](https://chrome.google.com/webstore/detail/hiyd/hkeklhoojnogpfmiikadpcmkmpldhpce)
 
 Generate markdown content for your Jekyll sites with ease. Create posts with front matter quickly on iOS and Chrome.
@@ -19,7 +19,7 @@ Generate markdown content for your Jekyll sites with ease. Create posts with fro
 
 ### iOS App
 
-1. Download from the [App Store](https://apps.apple.com/app/hiyd/idXXXXXXXXX)
+1. Download from the [App Store]([https://apps.apple.com/app/hiyd/idXXXXXXXXX](https://apps.apple.com/us/app/hiyd/id6746853559))
 2. Open the app and start creating content
 3. Generate front matter for your posts
 4. Copy and paste into your Jekyll site
@@ -48,7 +48,7 @@ Hiyd is built with privacy as a core principle:
 - **Offline operation**: No internet connection required after installation
 - **No accounts**: No sign-up or login required
 
-Read our full [Privacy Policy](privacy.md) and [Security Policy](security.md).
+Read our full [Privacy Policy](https://hiyd.uk/privacy) and [Security Policy](https://hiyd.uk/security).
 
 ## 🛠️ Technical Details
 
