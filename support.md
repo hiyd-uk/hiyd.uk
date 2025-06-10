@@ -6,7 +6,7 @@ Need help with Hiyd? We're here to assist you!
 
 ### iOS App
 
-1. **Download**: Get Hiyd from the [App Store](https://apps.apple.com/app/hiyd/idXXXXXXXXX)
+1. **Download**: Get Hiyd from the [App Store](https://apps.apple.com/us/app/hiyd/id6746853559)
 2. **Open**: Launch the app on your iOS device
 3. **Create**: Start making Jekyll content with front matter
 4. **Export**: Copy your generated markdown to your Jekyll site
