@@ -4,7 +4,7 @@
 
 ## Overview
 
-Hiyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our websaite, apps and extensions.
+Hiyd ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our website, apps and extensions.
 
 ## Information We Collect
 
